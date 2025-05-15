@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,9 +11,9 @@
         <input type="text" name="quantity"><br>
         <input type="submit" value="Log in"><br>
 </body>
-</html> -->
+</html>
 <?php
-/*    $item = "pizza";
+    $item = "pizza";
     $price = 4.99;
     $quantity = $_POST["quantity"];
     $total = null;
@@ -21,10 +21,10 @@
     $total = $price * $quantity;
 
     echo "You have ordered {$quantity} x {$item}(s) at a price of {$price} each. <br>";
-    echo "The total cost is {$total}. <br>";*/
+    echo "The total cost is {$total}. <br>";
 ?>
 
-<?php ?>
+<?php // multiple php tags can be used in a file?>
 
 <!-- Circle Calculation example -->
 <!DOCTYPE html>
